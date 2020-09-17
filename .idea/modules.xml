@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jaxrs_client/jaxrs_client.iml" filepath="$PROJECT_DIR$/jaxrs_client/jaxrs_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jaxrs_server/jaxrs_server.iml" filepath="$PROJECT_DIR$/jaxrs_server/jaxrs_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jaxrs_sping_client/jaxrs_sping_client.iml" filepath="$PROJECT_DIR$/jaxrs_sping_client/jaxrs_sping_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jaxrs_spring_server/jaxrs_spring_server.iml" filepath="$PROJECT_DIR$/jaxrs_spring_server/jaxrs_spring_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jaxwx_client/jaxwx_client.iml" filepath="$PROJECT_DIR$/jaxwx_client/jaxwx_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jaxwx_service/jaxwx_service.iml" filepath="$PROJECT_DIR$/jaxwx_service/jaxwx_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jaxwx_sping_server/jaxwx_sping_server.iml" filepath="$PROJECT_DIR$/jaxwx_sping_server/jaxwx_sping_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jaxwx_springclient/jaxwx_springclient.iml" filepath="$PROJECT_DIR$/jaxwx_springclient/jaxwx_springclient.iml" />
+    </modules>
+  </component>
+</project>
